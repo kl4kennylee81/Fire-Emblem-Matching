@@ -1,0 +1,27 @@
+Chrom:1 3 5 11 6
+Frederick:All
+Virion:-5
+Stahl:-5
+Vaike:-5
+Kellam:-5
+Donnel:-5
+Lon'qu:-5
+Ricken:-5
+Gaius:All
+Gregor:-5
+Libra:-5
+Henry:All
+Avatar:All
+Lissa:-1
+Sully:All
+Miriel:-1
+Sumia:1 10 13 2
+Maribelle:All
+Panne:-1
+Cordelia:-1
+Nowi:-1
+Tharja:-1
+Olivia:All
+Cherche:-1
+N/A:All
+
